@@ -1,1 +1,7 @@
 # DataScience_BayesIngenuo
+
+
+yhjkedfoisajdgias
+dgaposdfjkgpasj
+dkgpodajfgipoaaj
+kfdsgpojk
