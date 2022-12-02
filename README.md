@@ -3,7 +3,9 @@
 # Naive Bayes
 
 O teorema de Bayes criado por Thomas Bayes no séc. XVIII foi a inspiração para elaboração do algorítimo Naive Bayes, que se tornou um classificador probabilístico
-popular na área de Aprendizado de máquina. De acordo com Becker (2019) o algoritmo se tornou popular por ser simples, rápido e possuir um desempenho semelhante a outros classificadores. A principal característica do algoritmo é que ele desconsidera completamente a correlação entre os atributos(características), tratando cada um de forma independente. O Pseudocódigo 3 representa o algoritmo Naive Bayes. Para definir o teorema de Bayes considere a seguinte notação:
+popular na área de Aprendizado de máquina. De acordo com Becker (2019) o algoritmo se tornou popular por ser simples, rápido e possuir um desempenho semelhante a outros classificadores. A principal característica do algoritmo é que ele desconsidera completamente a correlação entre os atributos(características), tratando cada um de forma independente.
+
+## Para definir o teorema de Bayes considere a seguinte notação:
 
   
   I. *P(h)* como sendo a probabilidade inicial da hipótese antes dos dados serem observados, chamada também de a priori de *h*.
