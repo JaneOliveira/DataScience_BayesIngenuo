@@ -21,3 +21,6 @@ treinamento. A equação a seguir descreve o classificador de Bayes:
 
 
 ![Bayes Ingênuo](https://github.com/JaneOliveira/DataScience_BayesIngenuo/blob/main/Eq_bayes.png)
+
+
+A base utilizada para os testes: "HOFMANN, H. . "german credit data". "UCI - Repositório de aprendizado de máquina",2000.
